@@ -68,9 +68,6 @@ ol, ul {
     border-bottom: #0077b6 solid 2px;
 }
 
-.vertical .desc{
-}
-
 .vertical .hide{
     display: none;
     height: 0px;
