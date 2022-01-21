@@ -28,6 +28,7 @@ ol, ul {
     justify-content: space-around;
     flex-direction: column;
     margin: 15px auto;
+    transition: all 1s ease;
 }
 .vertical{
     width: 250px;
